@@ -13,6 +13,7 @@ mensaje(); //Mandamos a llamar a la funcion
 function variables(){
 global $a;
 $b=15; //variable local ya que no se declaro 
+  <br>
 echo "prueba de la impresion de variables dentro <br>";
 echo "la variable a es $a <br>";
 echo "la variable b es $b <br> <br>";
