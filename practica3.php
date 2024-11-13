@@ -17,7 +17,7 @@ $b--;
 echo "Esto es un decremento (--), ahora b es igual a $b <br><br>";
 
 $a = 20;
-$b = 7;
+$b = 10;
 echo " Operadores condicionales <br><br>";
 echo "Comparación de igualdad ($a == $b): " . ($a == $b ? "verdadero" : "falso") . "<br>";
 echo "Comparación de identidad ($a === $b): " . ($a === $b ? "verdadero" : "falso") . "<br>";
