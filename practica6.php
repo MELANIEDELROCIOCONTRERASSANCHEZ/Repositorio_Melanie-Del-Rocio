@@ -1,5 +1,4 @@
 <?php
-require ("confi.php");
 echo "<h1>practica:Te has conectado con exito a tu servidor </h1><br><br>";
 
 // PHP Data Objects(PDO) Sample Code:
